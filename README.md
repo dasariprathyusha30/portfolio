@@ -58,24 +58,23 @@ I am a focused **Full Stack Developer** building clean, responsive, and scalable
 
 ### 1. Pro Task Manager
 **Description:** A task management application for organizing tasks efficiently with a clean and responsive UI.  
-**Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS  
-**Repo:** `<GITHUB_REPO_LINK>`
+**Stack:** React.js, localStorage, Tailwind CSS, JavaScript
+**Website URL:** `https://pro-task-manager-blue.vercel.app/
 
 ### 2. Weather Dashboard Pro
 **Description:** A weather dashboard that displays live weather data in a professional interface.  
-**Stack:** React.js, JavaScript, CSS, Weather API  
-**Repo:** `<GITHUB_REPO_LINK>`
+**Stack:** React.js, JavaScript, TailwindCSS, Weather API  
+**Website URL:** `https://weather-pro-dashboard-one.vercel.app/
 
 ### 3. Movie Search App
 **Description:** A movie search application with dynamic search and responsive UI.  
-**Stack:** React.js, JavaScript, CSS, API integration  
-**Live Demo:** `<LIVE_DEMO_LINK>`  
-**Repo:** `<GITHUB_REPO_LINK>`
+**Stack:** React.js, JavaScript, TailwindCSS, MovieBase API integration  
+**Live Demo:** `https://movie-search-app-rust-five.vercel.app/  
 
 ### 4. Student Management System
 **Description:** A full stack system to manage student records with a scalable backend and clean frontend structure.  
-**Stack:** React.js, Node.js, Express.js, PostgreSQL / MongoDB  
-**Repo:** `<GITHUB_REPO_LINK>`
+**Stack:** React.js, Node.js, Express.js, PostgreSQL  
+**Website URL:** `https://student-management-system-plum-mu.vercel.app/
 
 ---
 
