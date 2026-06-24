@@ -129,6 +129,10 @@ I am a focused **Full Stack Developer** building clean, responsive, and scalable
   </a>
 </p>
 
+<p align="center">
+  <b style="color:#64FFDA">Every day is a new opportunity to change your life!</b>
+</p>
+
 ---
 
 
