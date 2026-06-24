@@ -2,9 +2,7 @@
    PROFESSIONAL GITHUB PROFILE README
    ======================= -->
 
-<p align="center">
-  <img src="./assets/professional_readme_banner.png" alt="Prathyusha Dasari Banner" />
-</p>
+
 
 <h1 align="center">Hi, I'm Prathyusha Dasari 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack Developer</h3>
